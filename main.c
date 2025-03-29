@@ -1,13 +1,3 @@
-/*
-    Lab4 code
-    Made by:
-        - Simon Marcotte
-        - Carlos Colina
-        - Leo Dominguez
-*/
-
-
-
 #define LAB4_EXTEND
 
 #include <stdio.h>
